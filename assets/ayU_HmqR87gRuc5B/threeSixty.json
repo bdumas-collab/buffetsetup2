@@ -1,0 +1,47 @@
+{
+  "version": "3.119.37125.0",
+  "course_id": "65CpVh3e2Mn",
+  "title": "Buffet Drag and Drop",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5j7VOPrVmpz",
+      "title": "Title Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5bl0MmPBtxC",
+      "title": "Introduction",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6ACeIbHUNHC",
+      "title": "Scenario",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6SG3GcbkJV7",
+      "title": "Drag and Drop",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6dw8ARV6Voh",
+      "title": "Well Done!",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
